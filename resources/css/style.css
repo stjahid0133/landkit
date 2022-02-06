@@ -1,0 +1,8 @@
+@font-face {
+    src: url('resources/fonts/hk-grotesk.regular.ttf');
+    font-family: HKGroteskPro, sans-serif;
+}
+
+body {
+    font-family: HKGroteskPro, sans-serif;
+}
